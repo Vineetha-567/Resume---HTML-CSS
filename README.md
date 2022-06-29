@@ -4,11 +4,12 @@ A single-page résumé template done purely with HTML and CSS, which can be rend
 
 As the résumé is purely typeset with HTML and CSS, it's highly customizable (e.g. if you want an "objective" section, just copy-paste a few HTML elements) and does not require proprietary software. All you need is a text editor and a web browser (see compatibility section below). Oh, maybe some intermediate CSS knowledge. And, since it's open source with Apache License, you're allowed (and encouraged!) to create your own fine-tuned template and share with others
 
-### This page will help you :
+**This page will help you:**
 
-"*" create legible CV (Curriculum Vitae) / Resume 
-"*" create website with HTML5 and CSS
-"*" create CSS flexbox layout
-"*" implement good-looking responsive layouts
-"*" use Font Awesome 5 for social media
+* create legible *CV (Curriculum Vitae)* / *Resume*
+* create website with HTML5 and CSS
+* create CSS flexbox layout
+* implement good-looking responsive layouts
+* use Font Awesome 5 for social media
+
 
