@@ -21,4 +21,14 @@ As the résumé is purely typeset with HTML and CSS, it's highly customizable (e
 * implement good-looking responsive layouts
 * use Font Awesome 5 for social media
 
+## Demo
+Check demo here: [Ocat CV](https://ritaly.github.io/HTML-CSS-CV-demo/)
 
+
+# Fonts, Icon Fonts, and Dependencies
+* [Open Sans](https://www.google.com/fonts/specimen/Open+Sans), [Source Code Pro](https://fonts.google.com/specimen/Source+Code+Pro) and [Source Sans Pro](https://www.google.com/fonts/specimen/Source+Sans+Pro) are used at various weights, but are not included in this repository. Please follow the links to download the fonts onto your computer.
+* Icons from [Font Awesome](https://fortawesome.github.io/Font-Awesome/) are used and are incorporated as a git submodule in this repository.
+* [Normalize.css](https://necolas.github.io/normalize.css/) is used and is incorporated as a git submodule in this repository.
+
+# Paper Size/Orientation
+* Currently letter portrait only. PRs welcome for other paper sizes --- especially A4!
