@@ -32,3 +32,20 @@ Check demo here: [Ocat CV](https://ritaly.github.io/HTML-CSS-CV-demo/)
 
 # Paper Size/Orientation
 * Currently letter portrait only. PRs welcome for other paper sizes --- especially A4!
+
+# Actually Rendering the PDF
+* Again...I've only tried on the said version of Firefox & Chrome, on macOS.
+* Just open the HTML file with the browser. No need to serve the document from any kind of web server --- the ``file:///`` protocol should be good enough.
+* On Firefox:
+  * You probably need to remove any page margins in **about:config**.
+  * Uncheck **Ignore Scaling and Shrink To Fit Page Width**.
+  * Check **Print Background Colors**.
+  * Clear out the headers and footers.
+  * Save as PDF.
+* On Google Chrome:
+  * Set **Margin** to **None**.
+  * Print **Background Graphics**.
+  * Don't print headers and footers.
+  * Save as PDF.
+ 
+
